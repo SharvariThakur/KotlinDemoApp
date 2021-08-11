@@ -25,4 +25,11 @@ class BasicCoding {
         //mValue="Change value"
     }
 
+    fun classes() {
+        /*
+    * Class is created using class keyword and
+    * */
+
+    }
+
 }
